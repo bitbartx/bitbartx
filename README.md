@@ -2,6 +2,12 @@
 
 
 
+Sono il vero amante della tecnologia. In ogni problema cerco la soluzione tecnica più avanzata ed efficace disponibile sul mercato. Lavoro in ambienti Linux e Windows con grande passione da anni, curando con particolare attenzione l’aspetto della sicurezza informatica. Nel 2008 ha lasciato l’università per dedicarmi interamente alla mia passione co-fondando l’ I.T.S., azienda dedicata interamente alla sistemistica e al networking.
+
+La vera passione però è sempre stata in quei fatidici nerd da laboratorio sempre on,  che sbiadivano le lettere bianche della tastiera per scovare una via di accesso nei sistemi dichiarati sicuri per il solo scopo di dimostrare il contrario.
+
+Dal 2018 mi dedico interamente alla cybersecurity. Hacker etico e sempre studente, testo il livello di sicurezza delle aziende con ingaggi specifici scovando debolezze nella rete al fine di migliorare l’efficacia della stessa.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
